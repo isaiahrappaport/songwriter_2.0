@@ -1,0 +1,5 @@
+{
+  id: song.id,
+  name: song.name,
+  artist: song.artist,
+}
