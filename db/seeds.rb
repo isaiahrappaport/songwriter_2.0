@@ -8,3 +8,4 @@
 
 Song.create!(name: "Oh! Darling", artist: "The Beatles")
 Song.create!(name: "Present Tense", artist: "Radiohead")
+Song.create!(name: "Michelle", artist: "The Beatles")
